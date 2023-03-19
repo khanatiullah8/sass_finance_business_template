@@ -1,0 +1,39 @@
+// ===== Colors ===== //
+$colors: (
+  black: #000,
+  white: #fff,
+  offWhite: #F7F7F7,
+  greenLight: #A4C63A,
+  greyLight: #555,
+  greyMid: #343434,
+  greyDark: #232323,
+);
+
+// ===== FontAwesome ===== //
+$fontAwesome: (
+  time: \f017,
+  phone: \f095,
+  right: \f105,
+);
+
+$social: (
+  facebook: \f09a,
+  twitter: \f099,
+  linkedin: \f0e1,
+  behance: \f1b4,
+);
+
+// ===== Breakpoints ===== //
+$breakpoints: (
+  bigDevice: 1920px,
+  mac: 1440px,
+  pc: 1280px,
+  mdPc: 1150px,
+  ipadLandscape: 1024px,
+  ipad: 995px,
+  miniIpad: 767px,
+  phone: 640px,
+  iphone: 480px,
+  iphoneSm: 375px,
+  iphoneSe: 320px,
+);
